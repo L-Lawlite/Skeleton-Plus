@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "title": "Skeleton+",
+    "description": "Adds more powerful skeleton and wither skeleton",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:lawliet",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
